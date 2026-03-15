@@ -24,4 +24,4 @@ Este repositório contém a implementação prática de tipos abstratos de dados
 1. Certifique-se de ter o Java instalado em sua máquina.
 2. Clone este repositório:
    ```bash
-   git clone [https://github.com/Jeferson-IFTM/EstruturaDeDados_LIST5.git](https://github.com/Jeferson-IFTM/EstruturaDeDados_LIST5.git)
+   git clone https://github.com/Jeferson-IFTM/EstruturaDeDados_LIST5.git
